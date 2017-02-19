@@ -1,0 +1,11 @@
+
+Json {
+    Null of std::nullptr_t
+    Boolean of bool
+    Number of double
+    String of std::basic_string<char>
+    Array of std::vector<Json>
+    Object of std::map<std::string, Json>
+}
+
+
