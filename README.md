@@ -1,13 +1,13 @@
 # adt++
 
 `adt++` is the tool to use ADT (Algebraic Data Type) in C++.  
-This tool read a text file, and export C++ header file which defines ADT class.  
+This tool reads a text file, and exports a C++ header file which defines ADT class.  
 
 note: `adt++` requires C++14 to compile generated header.
 
 # Install
 ```
-$ git clone https://github.com/akitsu-sanae/adt++
+$ git clone https://github.com/akitsu-sanae/adtpp
 $ make
 ```
 then, you will find `./build/adt++`.
